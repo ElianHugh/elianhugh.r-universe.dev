@@ -3,5 +3,9 @@
         "package": "enumr", 
         "url": "https://github.com/ElianHugh/enumr",
         "branch": "release"  
+    },
+    {
+        "package": "topapi", 
+        "url": "https://github.com/ElianHugh/topapi"
     }
 ]
