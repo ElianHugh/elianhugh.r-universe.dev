@@ -7,5 +7,9 @@
     {
         "package": "topapi", 
         "url": "https://github.com/ElianHugh/topapi"
+    },
+    {
+        "package": "rsx", 
+        "url": "https://github.com/ElianHugh/rsx"
     }
 ]
