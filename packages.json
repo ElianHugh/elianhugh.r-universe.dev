@@ -1,15 +1,14 @@
 [
     {
-        "package": "enumr", 
-        "url": "https://github.com/ElianHugh/enumr",
-        "branch": "main"  
-    },
-    {
-        "package": "topapi", 
-        "url": "https://github.com/ElianHugh/topapi"
-    },
-    {
         "package": "rsx", 
         "url": "https://github.com/ElianHugh/rsx"
+    },
+    {
+        "package": "quartools",
+        "url": "https://github.com/ElianHugh/quartools"
+    },
+    {
+        "package": "hotwater",
+        "url": "https://github.com/ElianHugh/hotwater"
     }
 ]
