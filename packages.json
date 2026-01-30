@@ -10,5 +10,9 @@
     {
         "package": "hotwater",
         "url": "https://github.com/ElianHugh/hotwater"
+    },
+    {
+        "package": "freshwater",
+        "url": "https://github.com/ElianHugh/freshwater"
     }
 ]
